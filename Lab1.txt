@@ -1,0 +1,10 @@
+Healty Eating App
+
+With authentication:
+
+The user will enter a list of ingredients and the app will output a recipe for that ingredients.
+The recipe will be also sent through gmail, have a food chart and some animations.
+
+Without autentication:
+
+The user sees a list of healthy recipes.
